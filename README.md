@@ -3,5 +3,8 @@ Earthquake visualizations
 
 
 
-https://user-images.githubusercontent.com/98897041/176020929-e27e584f-1f4b-438b-89f1-e5348c5d68b8.mp4
+
+https://user-images.githubusercontent.com/98897041/176024732-028f2090-325d-453e-936b-c6bceb680e29.mp4
+
+
 
